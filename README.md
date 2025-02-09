@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm priyanshi rabadiya</h1>
 <h3 align="center">Full-Stack Developer | Exploring, Learning, Growing.</h3>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/priyanshi566" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/priyanshi566?logo=twitter&style=for-the-badge" alt="https://x.com/priyanshi566" /></a> </p>
 
 - 💡 See what I've built [https://priyanshi-rabadiya-portfolioweb.vercel.app/](https://priyanshi-rabadiya-portfolioweb.vercel.app/)
 
