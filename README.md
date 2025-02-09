@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Exploring, Learning, Growing.</h3>
 
 
-- 💡 See what I've built [https://priyanshi-rabadiya-portfolioweb.vercel.app/](https://priyanshi-rabadiya-portfolioweb.vercel.app/)
+- 💡 Explore my portfolio and projects here: [https://priyanshi-rabadiya-portfolioweb.vercel.app/](https://priyanshi-rabadiya-portfolioweb.vercel.app/)
 
 - 📃 View my resume here: [https://drive.google.com/file/d/1xwDkF0TuhoHrTRL1BPSBJjBX4u4_YyWw/view?usp=sharing](https://drive.google.com/file/d/1xwDkF0TuhoHrTRL1BPSBJjBX4u4_YyWw/view?usp=sharing)
 
